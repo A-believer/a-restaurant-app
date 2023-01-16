@@ -29,7 +29,7 @@ const AboutUs = () => (
           habitasse interdum mi aliquam In sed odio nec aliquet.
         </p>
         <button type="submit" className='custom__button'>Know More</button>
-      </div>
+      </div> 
     </div>
   </section>
 );

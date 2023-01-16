@@ -70,6 +70,10 @@
         flex-direction: column;
     }
 
+    .app__aboutus-content_knife img{
+    display: none;
+}
+
     .app__aboutus-content_knife {
         margin: 4rem 0;
     }
