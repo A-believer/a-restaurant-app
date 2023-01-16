@@ -22,7 +22,7 @@ const Header = () => {
       <div className='app__wrapper_img'>
         <img src={images.welcome} alt="welcome" />
         <p></p>
-      </div>
+      </div> 
       <div className='app__header-scroll'>
         <div />
         <p className='p__opensans'>scroll</p>

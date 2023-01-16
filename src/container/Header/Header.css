@@ -7,7 +7,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    transform: rotate(-90deg);
+    rotate: -90deg;
 }
 
 .app__header-sideMenu li {
